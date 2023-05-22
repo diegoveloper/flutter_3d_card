@@ -12,7 +12,9 @@ My social networks:
 
 Result
 
-[![](assets/challenge.gif)](https://www.youtube.com/watch?v=E2uufJ7mOZc )
+https://github.com/diegoveloper/flutter_3d_card/assets/4898256/ab1553d4-13a1-4310-8b47-cd8c35d82e0c
+
+
 
 ## If you like the code, don't forget to star it :)
 
